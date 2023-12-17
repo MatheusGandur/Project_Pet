@@ -1,5 +1,4 @@
 # Project_Pet
-Analise de dados.
 
 
 Análise de Churn
